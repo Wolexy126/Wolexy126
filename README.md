@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Wolexy126
+- 👋 Hi, I’m Ademuyiwa Adewole
 - 👀 I’m interested in Data analysis/science 
 - 🌱 I’m currently learning Data analysis 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on real life projects
+- 📫 How to reach me 08161562003/ademuyiwanur81@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i sleep alot
 
