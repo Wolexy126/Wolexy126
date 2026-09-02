@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ademuyiwa Adewole
-- 👀 I’m interested in Data analysis/science 
-- 🌱 I’m currently learning Data analysis 
+- 👀 I’m a in Data analyst
+- I am interested in becoming a data scientist
 - 💞️ I’m looking to collaborate on real life projects
 - 📫 How to reach me 08161562003/ademuyiwanur81@gmail.com
 - 😄 Pronouns: He/Him
